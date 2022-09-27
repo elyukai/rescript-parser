@@ -1,0 +1,27 @@
+{
+  "name": "rescript-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyukai/rescript-parser.git"
+  },
+  "keywords": [
+    "rescript",
+    "parser",
+    "ast"
+  ],
+  "author": "Lukas Obermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elyukai/rescript-parser/issues"
+  },
+  "homepage": "https://github.com/elyukai/rescript-parser#readme",
+  "devDependencies": {
+    "rescript": "^10.0.1"
+  }
+}
